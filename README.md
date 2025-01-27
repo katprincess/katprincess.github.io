@@ -1,2 +1,1 @@
-# katprincess.github.io
-My AI Journey Blog
+# My AI Journey Blog
