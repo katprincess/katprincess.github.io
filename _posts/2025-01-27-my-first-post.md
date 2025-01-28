@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "My First Post"
 date: 2025-01-27
 categories: [AI, Journey]
