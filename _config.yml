@@ -7,3 +7,4 @@ description: Sharing my journey with AI and learning
 github_username: katprincess
 markdown: kramdown
 paginate: 5
+paginate_path: "/page:num/"
