@@ -1,3 +1,8 @@
+---
+title: Home
+layout: page
+---
+
 # Welcome to My AI Journey Blog! 🎉🤖✨
 
 ## About Me 💁‍♀️  
