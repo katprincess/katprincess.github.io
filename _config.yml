@@ -6,3 +6,4 @@ title: My AI Journey Blog
 description: Sharing my journey with AI and learning
 github_username: katprincess
 markdown: kramdown
+paginate: 5
