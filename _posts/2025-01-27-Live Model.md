@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Live Model"
+date: 2025-01-27
+categories: [AI, Journey]
+---
+
 # My Henna Image Classifier: Finally Live! 🎉  
 
 I’m beyond excited to share my very first deployed model, the **Henna Image Classifier**, which is now live on **Hugging Face Spaces**! 🚀✨  
