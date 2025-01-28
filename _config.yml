@@ -1,3 +1,6 @@
 title: My AI Journey Blog
 description: Sharing my journey with AI and learning
 github_username: katprincess
+theme: merlot
+show_excerpts: true
+paginate: 5
