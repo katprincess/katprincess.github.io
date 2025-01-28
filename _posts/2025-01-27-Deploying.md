@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Deploying"
+date: 2025-01-27
+categories: [AI, Journey]
+---
+
 # Deploying My FastAI Model: Challenges and Lessons Learned 🚀🤖
 
 After completing Chapter 2 of the FastAI course, I was excited to deploy my model into an application. The idea was to transform the model into a fully functioning app, hosted on **Hugging Face Spaces**, to classify images seamlessly. My journey involved tools like **Kaggle Notebooks**, **Visual Studio Code**, **Bash**, **Gradio**, and **Hugging Face Spaces** to achieve this. However, the road to deployment was far from smooth, and I encountered several unexpected challenges. Here’s a detailed account of the issues I faced, the solutions I tried, and where I stand today.
